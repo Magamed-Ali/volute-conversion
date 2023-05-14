@@ -1,46 +1,52 @@
-# Getting Started with Create React App
+# КОНВЕРТЕР ВАЛЮТ
+Проект "Конвертер валют" предназначен для удобной конвертации валют с использованием современных технологий. В проекте используется библиотека React с поддержкой TypeScript.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##Зависимости
+Проект использует следующие пакеты зависимостей:
 
-## Available Scripts
+react: Библиотека для создания пользовательских интерфейсов.
+redux: Библиотека для управления состоянием приложения.
+react-router-dom: Библиотека для навигации и маршрутизации в React.
+redux-thunk: Middleware для обработки асинхронных действий в Redux.
+sass: Препроцессор CSS для создания стилей.
+typescript: Расширение JavaScript, добавляющее статическую типизацию.
+bootstrap: CSS-фреймворк для создания современных пользовательских интерфейсов.
+axios: Клиент для работы с HTTP-запросами.
+ts-jest: Инструмент для тестирования TypeScript кода в Jest.
 
-In the project directory, you can run:
+#Установка
 
-### `yarn start`
+1. Клонируйте репозиторий:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+git clone <URL репозитория>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+2. Перейдите в директорию проекта:
+cd <volute-conversion>
 
-### `yarn test`
+3. Установите зависимости:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+npm install
 
-### `yarn build`
+или 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+yarn install
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#Запуск проекта
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Выполните следующую команду для запуска проекта в режиме разработки:
 
-### `yarn eject`
+npm watch
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+или 
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+yarn watch
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+#Вклад
+Если вы хотите внести свой вклад в проект, пожалуйста, ознакомьтесь с информацией о вкладе и отправьте свои предложения и исправления через пул-реквест.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+#Контакты
+Если у вас возникли вопросы или предложения, пожалуйста, свяжитесь со мной по электронной почте или через мои социальные сети:
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+mail: magamedali93@mail.ru
+Tел: 89304388667
+телеграм: https://t.me/amg095
